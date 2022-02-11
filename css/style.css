@@ -1,0 +1,37 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #181818;
+}
+
+.navbar-nav li a {
+    color: white;
+}
+
+.inicio {
+    background-color: #CD4141;
+    color: white;
+}
+
+.margin {
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.historia {
+    background-color: #181818;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: #181818;
+    color: white;
+}
